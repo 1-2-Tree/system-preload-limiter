@@ -28,3 +28,7 @@ Removing original application, then installing this one.
 Then, Reboot.
 Inspect the target app.
 And the results.
+
+
+It is useful on phones that has low storage.
+And has useless Vendor apps.
