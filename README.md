@@ -35,3 +35,5 @@ And the results.
 
 It is useful on phones that has low storage.
 And has useless Preload apps.
+
+[Raw-DIR](https://raw.githubusercontent.com/1-2-Tree/system-preload-limiter/main/preload-dir-limiter.txt)
