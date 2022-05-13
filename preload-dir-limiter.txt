@@ -1,3 +1,8 @@
-# This is the list of possible DIR.
+# This is the list of possible DIR for newer version.
 
 /system/preload
+
+
+# This is the list of possible DIR on Low-end Devices.
+
+/system/vendor/app
