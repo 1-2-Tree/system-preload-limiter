@@ -5,7 +5,15 @@ This is an app for Android that detects application included on preload DIR on /
 It creates an app with identical package name of the one in vendor DIR.
 This app will create an app and make it lighter, having less than 1 MB of size.
 
-Example;
+Example; ** For _High-End_ Devices **
+
+The app XAMPle 
+pkg name: com.example.xample
+Uninstallable: True
+Size: 30 MB
+Found on PreLoad: True , Then every reboot, it restores/reinstalls the app.
+
+Example; ** For _Low-End_ Devices **
 
 The app XAMPle 
 pkg name: com.example.xample
