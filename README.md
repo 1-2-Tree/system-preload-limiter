@@ -1,6 +1,7 @@
-# vendor-limiter
+~~# vendor-limiter~~
+# System-PreLoad-Limiter
 
-This is an app for Android that detects application included on vendor DIR on / file system.
+This is an app for Android that detects application included on preload DIR on /system file system.
 It creates an app with identical package name of the one in vendor DIR.
 This app will create an app and make it lighter, having less than 1 MB of size.
 
@@ -22,6 +23,8 @@ app name: vl XAMPle
 pkg name (auto/user-specified)
 target size: Below 1 MB
 
+
+
 Signed the app.
 Removing original application, then installing this one. 
 
@@ -31,4 +34,4 @@ And the results.
 
 
 It is useful on phones that has low storage.
-And has useless Vendor apps.
+And has useless Preload apps.
