@@ -1,6 +1,7 @@
 # This is the list of possible DIR for newer version.
 
 /system/preload
+/system/reserve
 
 
 # This is the list of possible DIR on Low-end Devices.
